@@ -84,7 +84,7 @@
 
 ### 🎖 &nbsp;My Badges 
 
-[![An image of @jeetsharma's Holopin badges, which is a link to view their full Holopin profile](https://www.holopin.io/@jeetsharma#)](https://www.holopin.io/@jeetsharma#)
+[![An image of @jeetsharma's Holopin badges, which is a link to view their full Holopin profile](https://www.holopin.io/jeetsharma#)](https://www.holopin.io/@jeetsharma#)
 
 
 <!--
