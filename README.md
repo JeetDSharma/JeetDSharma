@@ -6,9 +6,9 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-👨‍💻 &nbsp;I am Currently Working at Karpuragauri Technologies as SDE and Blockchain Engineer.
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.
-🎓 &nbsp;I've graduated with 9.45 CGPA in B.E Computer Science at Mumbai Univeristy .
+👨‍💻 &nbsp;I am Currently Working at Karpuragauri Technologies as SDE and Blockchain Engineer.\
+💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+🎓 &nbsp;I've graduated with 9.45 CGPA in B.E Computer Science at Mumbai Univeristy.\
 🌱 &nbsp;I'm on track for learning more about Web3, Microservice Based Architecture, Machine Learning.
 <!--
 ✍️ &nbsp;In my free time, I pursue Logo Designing and Blog Writing as hobbies/side hustles.\
