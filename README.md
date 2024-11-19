@@ -7,7 +7,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-👨‍💻 &nbsp;I am Currently completing my Masters in Computer Science from Universiyt of Massachusetts Amherst.\
+👨‍💻 &nbsp;I am Currently completing my Masters in Computer Science from University of Massachusetts Amherst.\
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I've graduated with 9.45 CGPA in B.E Computer Science at Mumbai Univeristy.\
 🌱 &nbsp;I'm on track for learning more about Web3, Microservice Based Architecture, Machine Learning.
