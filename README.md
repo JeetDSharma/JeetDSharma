@@ -127,6 +127,6 @@
 
 <div align="center">
   <a href="https://github.com/JeetDSharma/">
-  <img src="[https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg](https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/grid-snake.svg)"
+  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
