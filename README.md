@@ -16,9 +16,7 @@
 
 </div>
 
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+---
 
 ## About Me
 
@@ -65,11 +63,7 @@ Full-stack engineer specializing in **distributed systems** and **event-driven a
   <code>VS Code • Postman • Figma</code>
 </div>
 
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<br/>
+---
 
 ## GitHub Analytics
 
@@ -79,9 +73,7 @@ Full-stack engineer specializing in **distributed systems** and **event-driven a
   </a>
 </p>
 
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+---
 
 ## Core Competencies
 
@@ -98,9 +90,7 @@ AI/ML Platforms • Forensics Tech • Graph Databases • Semantic Search
 
 </div>
 
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+---
 
 ## Let's Connect
 
@@ -116,8 +106,3 @@ Open to discussing distributed systems, system design, and interesting technical
 
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
-</div>
