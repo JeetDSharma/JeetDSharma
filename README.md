@@ -74,15 +74,9 @@ Full-stack engineer specializing in **distributed systems** and **event-driven a
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JeetDSharma&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeetDSharma&layout=compact&langs_count=8&theme=algolia" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JeetDSharma&theme=algolia" alt="GitHub Streak" />
+  <a href="https://github.com/JeetDSharma">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JeetDSharma&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
 </p>
 
 <br/>
