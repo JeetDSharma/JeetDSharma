@@ -53,9 +53,9 @@ Full-stack engineer specializing in **distributed systems** and **event-driven a
 
 ### Infrastructure & DevOps
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=docker,aws,linux,git,jenkins,bash" />
+  <img src="https://skillicons.dev/icons?i=docker,aws,linux,git,bash" />
   <br/>
-  <code>Docker • AWS • Linux • Git • Jenkins • CI/CD • Cloudflare</code>
+  <code>Docker • AWS • Linux • Git • CI/CD • Cloudflare</code>
 </div>
 
 ### Tools & Design
