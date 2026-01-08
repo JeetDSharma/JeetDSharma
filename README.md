@@ -30,21 +30,44 @@ Full-stack engineer specializing in **distributed systems** and **event-driven a
 
 ## Tech Stack
 
+### Frontend Development
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,python,cpp,ts,postgres,mongodb,redis,docker,aws,linux,git,flask,express" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=graphql,elasticsearch,tailwind,figma,postman,jenkins,bash,vscode" />
+  <code>React • Next.js • TypeScript • TailwindCSS</code>
+</div>
+
+### Backend Development
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,python,cpp,flask,express,graphql" />
+  <br/>
+  <code>Node.js • Python • C++ • Flask • Express.js • GraphQL</code>
+</div>
+
+### Databases & Data
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,elasticsearch" />
+  <br/>
+  <code>PostgreSQL • MongoDB • Redis • Elasticsearch • Neo4j • LevelDB • pgvector</code>
+</div>
+
+### Infrastructure & DevOps
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=docker,aws,linux,git,jenkins,bash" />
+  <br/>
+  <code>Docker • AWS • Linux • Git • Jenkins • CI/CD • Cloudflare</code>
+</div>
+
+### Tools & Design
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,postman,figma" />
+  <br/>
+  <code>VS Code • Postman • Figma</code>
 </div>
 
 <br/>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JeetDSharma&theme=algolia&no-frame=false&no-bg=false&margin-w=4&row=1" />
-</div>
 
 <br/>
 
