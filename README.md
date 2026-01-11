@@ -20,7 +20,7 @@
 
 ## About Me
 
-Full-stack engineer specializing in **distributed systems** and **event-driven architectures**. Currently pursuing MS in Computer Science at UMass Amherst while building production systems with proven impact: **$20M+ revenue contribution**, **2B+ records processed**, **<1s response times** at scale.
+Full-stack engineer specializing in **distributed systems** and **backend infrastructure**. Currently pursuing MS in Computer Science at UMass Amherst while building production systems with proven impact: **$20M+ revenue contribution**, **2B+ records processed**, **<1s response times** at scale.
 
 **Looking for:** Full-time Software Engineering roles (2026) in distributed systems, backend infrastructure, or full-stack development.
 
@@ -80,7 +80,7 @@ Full-stack engineer specializing in **distributed systems** and **event-driven a
 <div align="center">
 
 **Architecture Patterns**  
-Event-Driven Systems • Microservices • Distributed Databases • RAG Systems • Data Pipelines
+Distributed Databases • RAG Systems • Data Pipelines • System Design
 
 **Scale & Performance**  
 2B+ records processed • <1s latency • 95%+ accuracy • Real-time streaming
