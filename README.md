@@ -83,7 +83,7 @@ Full-stack engineer specializing in **distributed systems** and **backend infras
 Distributed Databases • RAG Systems • Data Pipelines • System Design
 
 **Scale & Performance**  
-2B+ records processed • <1s latency • 95%+ accuracy • Real-time streaming
+2B+ records processed • <2s latency • Real-time streaming
 
 **Domains**  
 AI/ML Platforms • Forensics Tech • Graph Databases • Semantic Search
